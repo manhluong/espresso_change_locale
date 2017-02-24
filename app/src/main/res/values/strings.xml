@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Espresso Change Locale</string>
+  <string name="hello_world">Hello World!</string>
+  <string name="change_locale">Change Locale</string>
+</resources>
